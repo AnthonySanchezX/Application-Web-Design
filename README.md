@@ -1,10 +1,3 @@
-Markdown” in the README.md file and inside of it put your data (
-    name, 
-    registration number, 
-    degree, semester),
-     the data of your subject (name of the subject and the professor who teaches it), 
-     and a text describing what Markdown is used for. Save the changes.
-
 # Application Web Design
 
 ## Primer alumno
